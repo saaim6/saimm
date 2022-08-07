@@ -1,0 +1,37 @@
+body{
+    background-image: url('/WEB/media/bg.jpg');
+    text-align: center;
+}
+.h{
+    font-size: xxx-large;
+    font-family: 'Teko', sans-serif;
+    color: black;
+    padding: 05px;
+
+
+}
+.p{
+    font-size: xx-large;
+    font-family: 'Bangers', cursive;
+    color: rgb(70, 70, 70);
+    padding: 10px;
+
+}
+
+.img{
+    margin: auto;
+}
+
+.iii{
+    text-align: center;
+    font-size: x-large;
+    color: coral;
+    font-family: 'Bangers', cursive;
+
+
+
+}
+a:hover{
+    font-size: xx-large;
+    color: orangered;
+}
